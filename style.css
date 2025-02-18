@@ -1,3 +1,6 @@
+
+
+
 *{
     margin: 0;
     padding: 0;
@@ -64,7 +67,7 @@ section{
 
 .text{
     font-size: 1.5rem;
-    margin: 5rem 0;
+    margin: 1.5rem 0;
     padding:0 10rem;
 }
 
@@ -72,7 +75,7 @@ section{
     position: relative;
     width: 100%;
     background-attachment: fixed;
-    height: 500px;
+    height: 700px;
     background-position: center;
     background-size: cover;
 }
@@ -92,14 +95,25 @@ section{
 
 
 .bg1{
-    background-image: url(sport-1.jpg);
+    background-image: url(com4.jpg);
 }
 .bg2{
-    background-image: url(sport-2.jpg);
+    background-image: url(co1.jpg);
 }
 .bg3{
-    background-image: url(sport-3.jpg);
+    background-image: url(ev1.jpg);
 }
 .bg4{
-    background-image: url(sport-1.jpg);
+    background-image: url(about.jpg);
 }
+
+#moto {
+    font-family: "Dancing Script", serif;
+    font-weight: 900;
+    font-size: 50px;
+  }
+
+  .but{
+    border-style: hidden;
+    border-radius: 20px;
+  }
