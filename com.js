@@ -3,23 +3,43 @@
 let tweets = [
     {
         id: 1,
-        username: 'John Doe',
-        handle: '@johndoe',
+        username: 'Ashutosh',
+        handle: '@ashutosh50505',
         content: 'Just learned HTML, CSS, and JavaScript! 🚀 #coding #webdev',
-        likes: 42,
-        retweets: 12,
-        replies: 5,
-        time: '2h'
+        likes: 50000,
+        retweets: 200,
+        replies: 1,
+        time: '1h'
     },
     {
         id: 2,
-        username: 'Jane Smith',
-        handle: '@janesmith',
+        username: 'Kanika',
+        handle: '@kanoka',
         content: 'Beautiful day for coding! 💻☀️',
         likes: 24,
         retweets: 3,
         replies: 2,
         time: '4h'
+    },
+    {
+        id: 3,
+        username: 'raunak',
+        handle: '@raunak raj',
+        content: 'chess !',
+        likes: 50,
+        retweets: 3,
+        replies: 2,
+        time: '9h'
+    },
+    {
+        id: 4,
+        username: 'rastogi',
+        handle: '@shivam Rastogi',
+        content: 'sleep',
+        likes: 32,
+        retweets: 5,
+        replies: 45,
+        time: '2d'
     }
 ];
 

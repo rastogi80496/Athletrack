@@ -37,11 +37,12 @@
 .background ,.foreground{
     position: absolute;
     height: 100%;
-    width: 100%;
+    width: 120%;
     object-fit: cover;
     z-index: -1;
 
 }
+
 h1{
     position: absolute;
     top: 27%;
@@ -51,6 +52,10 @@ h1{
     color: white;
     text-shadow: 0 0 10px rgba(0, 0,0,0,0.3);
     letter-spacing: 4px;
+}
+
+.title{
+    font-size: 8rem;
 }
 
 section{
@@ -67,7 +72,7 @@ section{
 
 .text{
     font-size: 1.5rem;
-    margin: 1.5rem 0;
+    margin: 1.3 rem 0;
     padding:0 10rem;
 }
 

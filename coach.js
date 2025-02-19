@@ -3,7 +3,7 @@
         const coaches = [
             {
                 id: 1,
-                name: "John Smith",
+                name: "Ashutosh",
                 specialty: "fitness",
                 rating: 4.8,
                 price: "$50/hour",
@@ -11,7 +11,7 @@
             },
             {
                 id: 2,
-                name: "Sarah Johnson",
+                name: "Kanika",
                 specialty: "business",
                 rating: 4.9,
                 price: "$100/hour",
@@ -19,7 +19,7 @@
             },
             {
                 id: 3,
-                name: "Mike Wilson",
+                name: "Raunak",
                 specialty: "life",
                 rating: 4.7,
                 price: "$75/hour",
@@ -27,7 +27,7 @@
             },
             {
                 id: 4,
-                name: "Emma Davis",
+                name: "Rastogi",
                 specialty: "career",
                 rating: 4.9,
                 price: "$90/hour",
